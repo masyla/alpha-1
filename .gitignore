@@ -59,4 +59,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 Packages/packages-lock.json
+<<<<<<< HEAD
 Packages/packages-lock.json
+=======
+>>>>>>> V1-Player-Mouvement
